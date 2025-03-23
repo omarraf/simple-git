@@ -1,10 +1,7 @@
-## Git Implementation in Python
-This project is a simplified implementation of Git, written in Python. It replicates core Git functionality, including storing file contents as blobs, creating tree structures, managing commits, and cloning repositories via Git’s Smart HTTP protocol. Inspired by codecrafters build-your-own-git
-
-# Git Clone - A Minimal Git Implementation
+# Simple Git - A Minimal Git Implementation
 
 ## Overview
-This project is a minimal Git-like version control system implemented in Python. It provides basic functionalities for working with Git objects, such as blobs and trees. This implementation helps understand how Git internally stores and retrieves data.
+This project is a minimal Git-like version control system implemented in Python. It provides basic functionalities for working with Git objects, such as blobs and trees. This implementation helps understand how Git internally stores and retrieves data. Inspired by codecrafters build-your-own-git
 
 ## Features
 - **Create Blob**: Stores file contents as Git blob objects.
