@@ -1,4 +1,4 @@
-# Simple Git - A Minimal Git Implementation
+# Simple Git
 
 ## Overview
 This project is a minimal Git-like version control system implemented in Python. It provides basic functionalities for working with Git objects, such as blobs and trees. This implementation helps understand how Git internally stores and retrieves data. Inspired by codecrafters build-your-own-git
