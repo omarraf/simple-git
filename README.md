@@ -14,7 +14,7 @@ Ensure you have Python 3 installed on your system.
 
 Clone this repository:
 ```sh
-$ git clone <your-repo-url>
+$ git clone https://github.com/omarraf/simple-git.git
 $ cd <your-repo-folder>
 ```
 
